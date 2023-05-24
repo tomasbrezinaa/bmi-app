@@ -27,4 +27,4 @@ including your BMI and emoji based on this value.
 
 [i18next](https://www.i18next.com/) , [react-spinners](https://www.davidhu.io/react-spinners/), 
 
-bootstrapped with [create react App](https://github.com/facebook/create-react-app)
+bootstrapped with [create react app](https://github.com/facebook/create-react-app)
