@@ -7,6 +7,8 @@ Body Mass Index app is created with React. It calculates body mass index
 for the individual and based on values it prints your health status 
 including your BMI and emoji based on this value.
 
+[Body Mass Index](https://tomasbrezinaa.github.io/bmi-app/)
+
 * including language support for English , Slovakia users with i18next
 * loading animation based on react-spinners
 * support dark mode which remember previous mode via local storage
