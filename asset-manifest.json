@@ -1,0 +1,13 @@
+{
+  "main.css": "/bmi-app/static/css/main.cf922733.chunk.css",
+  "main.js": "/bmi-app/static/js/main.2d9a48bb.chunk.js",
+  "main.js.map": "/bmi-app/static/js/main.2d9a48bb.chunk.js.map",
+  "static/js/1.947184f4.chunk.js": "/bmi-app/static/js/1.947184f4.chunk.js",
+  "static/js/1.947184f4.chunk.js.map": "/bmi-app/static/js/1.947184f4.chunk.js.map",
+  "runtime~main.js": "/bmi-app/static/js/runtime~main.1c2b8978.js",
+  "runtime~main.js.map": "/bmi-app/static/js/runtime~main.1c2b8978.js.map",
+  "static/css/main.cf922733.chunk.css.map": "/bmi-app/static/css/main.cf922733.chunk.css.map",
+  "index.html": "/bmi-app/index.html",
+  "precache-manifest.c40ba72475d08c53ac34d6f02494a09d.js": "/bmi-app/precache-manifest.c40ba72475d08c53ac34d6f02494a09d.js",
+  "service-worker.js": "/bmi-app/service-worker.js"
+}
