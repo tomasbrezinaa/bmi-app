@@ -1,3 +1,4 @@
+import React  from 'react';
 import { Suspense, useState, useEffect } from "react";
 /* importing i18next */
 import i18n from "i18next"
@@ -183,8 +184,8 @@ function App() {
           <div className="language">
             <label className="title">{t('language')} </label>
                 <select name="language" onChange={onChange}>
-                  <option value="en">🇺🇸</option>
-                  <option value="sk">🇸🇰</option>
+                  <option value="en"><span role='img' aria-label='flag'>🇺🇸</span></option>
+                  <option value="sk"><span role='img' aria-label='flag'>🇸🇰</span></option>
                 </select>
           </div>
         </div>
